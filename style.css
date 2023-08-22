@@ -1,0 +1,14 @@
+.gradient-background {
+    background: linear-gradient(300deg, #2c064e,#4d3c7c, #5faad5);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  .white-background{
+    background-color: white;
+  }
+  .heading-text{
+    font-family: 'Noto Serif', serif;
+  }
+  .body-text{
+    font-family: 'Open Sans', sans-serif;
+  }
